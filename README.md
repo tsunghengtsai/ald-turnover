@@ -15,7 +15,7 @@ The following supplementary data files are required.
 
 ### Demonstration of the kinetic data analysis procedure
 
-Run the source file `ALD25_demo` for a demonstration of the nonlinear regression approach for the inference and testing about turnover rates.
+Run the source file `ALD25_demo.R` for a demonstration of the nonlinear regression approach for the inference and testing about turnover rates.
 
 ### MS-based differential and dynamic proteomics analyses
 
