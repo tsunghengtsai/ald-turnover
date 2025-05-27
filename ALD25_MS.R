@@ -139,8 +139,6 @@ total_sum <- total_nested |>
 # Significance analysis of total protein abundance (Table S1B)
 total_out <- total_sum |> arrange(pvalue)
 
-# sum(total_sum$adj_pvalue < 0.05) / 
-
 # LFQ acetylation ---------------------------------------------------------
 
 # LFQ data of acetylated peptides (Table S4A)
