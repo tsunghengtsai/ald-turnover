@@ -2,7 +2,7 @@
 
 This repository hosts a set of R scripts for reproducing the MS-based LFQ and dynamic analyses and figures presented in the manuscript: 
 
-"Chronic alcohol consumption reprograms hepatic metabolism through organelle-specific acetylation in mice."
+Mirjavid Aghayev, Megan R McMullen, Serguei Ilchenko, Andrea Arias-Alvarado, Victor Lufi, Jack Mathis, Hannah Marchuk, Tsung-Heng Tsai, Guo-Fang Zhang, Laura E Nagy, Takhar Kasumov (2025). Chronic alcohol consumption reprograms hepatic metabolism through organelle-specific acetylation in mice. Molecular & Cellular Proteomics. (DOI: 10.1016/j.mcpro.2025.100990)
 
 ## Datasets
 
